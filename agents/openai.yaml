@@ -1,0 +1,4 @@
+interface:
+  display_name: "哲学家访谈"
+  short_description: "直接指定哲学家或结合赵林讲演录，依据史料重构思想，进行访谈并整理成稿"
+  default_prompt: "使用 $philosopher-interview，我想和康德对话。请准备他的思想模型，然后由我提问。"
